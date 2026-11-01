@@ -75,7 +75,9 @@ Project Files
 
 "StudentGradeTracker.java" – Java source code.
 "Student_Grade_Tracker.pdf" – Project screenshots.
+
 Author
+
 PUNNANA MEGHANA
 
 Internship
